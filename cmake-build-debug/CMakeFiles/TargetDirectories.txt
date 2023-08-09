@@ -1,0 +1,3 @@
+/mnt/s/Coding/monte-carlo/cmake-build-debug/CMakeFiles/monte_carlo.dir
+/mnt/s/Coding/monte-carlo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/s/Coding/monte-carlo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

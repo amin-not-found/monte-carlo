@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/monte_carlo.dir/main.cpp.o -o monte_carlo  /usr/lib64/libraylib.so -L/usr/lib64 -lraylib 
